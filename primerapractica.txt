@@ -9,7 +9,7 @@
 	<p>Estoy aprendiendo html y esta es mi primera página web</p>
 	<p>Me gusta el deporte en especial el fútbol y los coches</p>
 	<p> Mi localidad de nacimiento es León , sigo viviendo en leon y mi pc es de sobremesa</p>
-	<img src="catedral.jpg">
+	
 	<img src="foto.jpg" >
  
 	</body>
