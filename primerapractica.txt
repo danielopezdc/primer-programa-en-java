@@ -5,12 +5,13 @@
 	</head>
 	
 	<body>
-	<h1>La página web de Daniel López</h1>
+
 	<p>Estoy aprendiendo html y esta es mi primera página web</p>
 	<p>Me gusta el deporte en especial el fútbol y los coches</p>
 	<p> Mi localidad de nacimiento es León , sigo viviendo en leon y mi pc es de sobremesa</p>
 	
 	<img src="foto.jpg" >
+	<h> Mi grupo favorito es acdc</h>
  
 	</body>
 
